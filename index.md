@@ -1,5 +1,3 @@
-page.title = "Project Bot Spotter"
-
 # Project Bot Spotter
 
 This is the place holder for the Bot Spotter Project - we aren't sure 
